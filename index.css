@@ -1,0 +1,39 @@
+body {
+    width: 100vmax;
+    height: 100vmin;
+    margin-top: 40vmin;
+}
+
+#inp {
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    font-size: x-large;
+}
+
+#signal {
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fa-solid {
+    font: bold;
+    font-size: x-large;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#text {
+    font-size: larger;
+    margin-top: 5px;
+}
