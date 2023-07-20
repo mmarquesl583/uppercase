@@ -13,13 +13,13 @@ body {
 
 #signal {
     background-color: yellow;
-    height: 50px;
-    width: 50px;
-    border-radius: 100%;
+    border-radius: 10px;
     border: 1px solid black;
     display: flex;
     align-items: center;
-    justify-content: center;
+    padding: 7px;
+    height: 50px;
+    width: 125px;
 }
 
 .fa-solid {
@@ -36,4 +36,8 @@ body {
 #text {
     font-size: larger;
     margin-top: 5px;
+}
+
+#mark {
+    margin-left: 4px;
 }
